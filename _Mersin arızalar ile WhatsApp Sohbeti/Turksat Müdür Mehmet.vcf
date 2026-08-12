@@ -1,0 +1,7 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Mehmet;Turksat;Müdür;;
+FN:Turksat Müdür Mehmet
+item1.TEL;waid=905441100082:+90 544 110 00 82
+item1.X-ABLabel:Mobil
+END:VCARD
