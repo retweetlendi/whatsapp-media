@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Corbus;emre;Soner;;
+FN:emre Soner Corbus
+item1.TEL:+90 6477
+item1.X-ABLabel:İş
+item2.TEL:+90 48380
+item2.X-ABLabel:Mobil
+item3.TEL;waid=905303026477:+90 530 302 64 77
+item3.X-ABLabel:Mobil
+END:VCARD
