@@ -1,2 +1,5 @@
+# Önce varsayılan gizlemeyi belirtip ardından klasörü istisna tutuyoruz
+*
 !_Mersin arızalar ile WhatsApp Sohbeti/
 !_Mersin arızalar ile WhatsApp Sohbeti/**
+!.gitignore
