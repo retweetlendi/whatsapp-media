@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Ates;Ersan;;;
+FN:Ersan Ates
+TEL;type=WORK:+90 504 3
+TEL;type=CELL;type=VOICE;waid=905303025043:+90 530 302 50 43
+item1.ADR;type=HOME:;;;;Adana;;
+END:VCARD_$!<VCard-Separator>!$_BEGIN:VCARD
+VERSION:3.0
+N:;Ersen Ateş Karel;;;
+FN:Ersen Ateş Karel
+TEL;type=CELL;type=VOICE:+90 504 3
+TEL;type=CELL;type=VOICE;waid=905303025043:+90 530 302 50 43
+END:VCARD
