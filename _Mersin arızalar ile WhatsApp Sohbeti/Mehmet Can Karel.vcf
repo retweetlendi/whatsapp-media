@@ -1,9 +1,0 @@
-BEGIN:VCARD
-VERSION:3.0
-N:Karel;Mehmet;Can;;
-FN:Mehmet Can Karel
-item1.TEL:+90 68708
-item1.X-ABLabel:Mobil
-item2.TEL;waid=905367730461:+90 536 773 04 61
-item2.X-ABLabel:İş
-END:VCARD
